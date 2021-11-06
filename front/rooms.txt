@@ -1,7 +1,11 @@
+Aruba             Double        
+Mediterranean     King          
+Bahia             SuperKing     
 
-Aruba
-Mediterranean
-Bahia
+
+
+
+
 
 
 
